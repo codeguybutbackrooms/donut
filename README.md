@@ -4,5 +4,5 @@ This is spinning donut, in HTML, CSS, JS programming languages. Based on [donut.
 ## Demo
 This is a screenshot
 
-![](blob:https://www.facebook.com/e04f1677-b253-4840-bac5-0f9505e5e0fd)
+![](screenshot.jpg)
 
