@@ -6,4 +6,4 @@ This is a screenshot
 
 ![](screenshot.jpg)
 
-Wanna try it? [Here.](codeguybutbackrooms.github.io/spinning-donut.html)
+Wanna try it? [Here.](https://codeguybutbackrooms.github.io/donut.html)
